@@ -1,2 +1,2 @@
 # whip-him-out
-website for a client
+weird website request from a client, did it anyway.
